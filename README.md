@@ -3,11 +3,11 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Software Solution pitch Practice </b>
+  - [Practicing Software Solution Pitching](https://youtu.be/1uzozCBYnMI)
 
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>SE Solution Slide Deck</b>
+  - [Slide Deck Demo](https://www.canva.com/design/DAGkmXIYyPA/FrMNDxVRFeZVWQ2WqdPsQQ/edit?utm_content=DAGkmXIYyPA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h2>Certifications</h2>
 
@@ -16,7 +16,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" color="white" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" color="white" alt="JoshMadakor | YouTube" width="22px" src="https://www.youtube.com/channel/UCv2m9u3WIwmIgz1Lww8E5Xg/" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
